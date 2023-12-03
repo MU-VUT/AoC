@@ -1,1 +1,6 @@
---- Day 1: Trebuchet?! ---
+Games: obj[]
+Game: obj (Id: number, sets: obj[], possible?: boolean)
+Set: obj (red, green, blue)
+
+/\d+(?=:)/ -> číslo před : (číslo hry)
+/[^\r\n]+/g

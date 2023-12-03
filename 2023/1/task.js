@@ -1,5 +1,5 @@
 // TODO: task 1
-// node ./2023/1/task1.js
+// node ./2023/1/task.js
 
 var fs = require("fs");
 
