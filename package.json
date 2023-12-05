@@ -2,6 +2,7 @@
   "dependencies": {
     "eslint": "^8.55.0",
     "fs": "^0.0.1-security",
+    "lodash-es": "^4.17.21",
     "ts-node": "^10.9.1",
     "typescript": "^5.3.2"
   }
