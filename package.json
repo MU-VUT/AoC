@@ -1,7 +1,9 @@
 {
   "dependencies": {
+    "@types/lodash": "^4.14.202",
     "eslint": "^8.55.0",
     "fs": "^0.0.1-security",
+    "lodash": "^4.17.21",
     "lodash-es": "^4.17.21",
     "mathjs": "^12.2.0",
     "ts-node": "^10.9.1",
